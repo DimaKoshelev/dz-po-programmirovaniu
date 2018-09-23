@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
 	setlocale(LC_ALL,"RUSSIAN");
-cout<<"Ïðèâåò ,"<<"first_name!"<<endl;
+cout<<"ÐŸÑ€Ð¸Ð²ÐµÑ‚ ,"<<"first_name!"<<endl;
 return 0;
 }
 
