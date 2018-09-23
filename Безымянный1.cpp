@@ -5,10 +5,10 @@ using namespace std;
 
 int main(){
 	setlocale(LC_ALL,"RUSSIAN");
-cout<<"Ââåäèòå âàøå èìÿ:";
+cout<<"Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ð°ÑˆÐµ Ð¸Ð¼Ñ:";
 string a;
 cin>>a;
-cout<<"Ïðèâåò, "<<a<<"endl"	;
+cout<<"ÐŸÑ€Ð¸Ð²ÐµÑ‚, "<<a<<"endl"	;
 return 0;
 
 }
